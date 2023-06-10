@@ -1,0 +1,43 @@
+.col-2{
+    padding: 5px;
+}
+
+.col-3{
+    padding: 6px;
+}
+.formulario{
+    margin-top: 0%;
+}
+.col-6{
+    padding-left: 0%;
+    padding-right: 0%;
+}
+.texto{
+    text-align: left;
+}
+
+.navegacion{
+    padding: 2rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.navegacion a{
+    text-decoration: none;
+    color: white;
+}
+
+.footer{
+    background-color: #1C3F52;
+}
+
+.botons{
+    background-color: rgb(166, 212, 66);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    border: none;
+}
+.ticket{
+    color:rgb(50, 224, 50);
+}
